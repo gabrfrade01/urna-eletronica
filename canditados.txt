@@ -1,0 +1,3 @@
+    "123456": {"nome": "Gabriel Frade", "estado": "Minas Gerais"},
+            "654321": {"nome": "Ana Silva", "estado": "São Paulo"},
+            "987654": {"nome": "Carlos Souza", "estado": "Rio de Janeiro"},

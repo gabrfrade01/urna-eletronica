@@ -1,0 +1,10 @@
+Título de Eleitor: 123456
+Presidente: João da Silva
+Governador: Ronaldinho Gaúcho
+Senador: Tranquedo Neves
+----------------------------------------
+Título de Eleitor: 123456
+Presidente: Tilápia Frade
+Governador: Ronaldinho Gaúcho
+Senador: Tranquedo Neves
+----------------------------------------
